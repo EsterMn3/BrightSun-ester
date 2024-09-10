@@ -20,7 +20,7 @@ BrightSun is a modern and responsive website designed to showcase the services a
 
 - **HTML5**: Structure and content of the website.
 - **CSS3**: Styling, layout, and responsive design using media queries.
-- **JavaScript**: (If applicable, add any used for interactivity or functionality).
+- **JavaScript**: (used for interactivity and functionality).
 - **Images**: Used for visual elements, enhancing the overall design.
 
 ## Tech Stack
