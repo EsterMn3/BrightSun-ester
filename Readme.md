@@ -9,7 +9,7 @@ BrightSun is a modern and responsive website designed to showcase the services a
   <a href="https://breeze-ester.netlify.app/">
     <img src="img\logo\brightsun_logo.webp" alt="Logo" height="70">
   </a>
-  <h1 align="center">BrightSuns</h1>
+  <h1 align="center">BrightSun</h1>
 
   <p align="center">
     <a href="https://brightsun-ester.netlify.app/">View Demo</a>
